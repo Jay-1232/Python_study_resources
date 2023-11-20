@@ -4,5 +4,5 @@ Also I'm gonna add more detailed resources on python libraries like, Numpy, Pand
 This repository is basically a "Crash course on Python", that will provide a resources to learn python from various sources like udemy, Youtube, and manymore.
 
 
-This repo will consist of basic level of codes for now...
+This repo will consist basic level of codes for now...
 
