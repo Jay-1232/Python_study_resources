@@ -19,11 +19,23 @@ for i in range(0,4):
             print("*", end=" ")
     print("")
 
+# output for above code: 
+# * * * *
+# * * *
+# * *
+# *
+# *
+# * *
+# * * *
+# * * * *
+
+# Implementation of while loop
 i=1
 while(i<9):
-    print(i)
+    print(i, end=" ")
     i=i+1
 else:
     print("I'm out of the loop.")
 
-    
+# output: 
+# 1 2 3 4 5 6 7 8 I'm out of the loop.
